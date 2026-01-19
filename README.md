@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi there, I'm Bisma
+
+🎓 CS Student
+🌱 Learning Programming
+💻 Interested in Web & Software Development
 
 <!--
 **BismaShahzad0/BismaShahzad0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
