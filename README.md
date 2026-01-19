@@ -1,7 +1,9 @@
 Hi there, I'm Bisma
 
 🎓 CS Student
+
 🌱 Learning Programming
+
 💻 Interested in Web & Software Development
 
 <!--
